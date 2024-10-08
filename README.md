@@ -1,6 +1,8 @@
 
 TP LE1 Android 
 
+Amaury
+a
 Jeux de plateau style "Mario Party" qui offre la possibilité de jouer en multijoueur ou en solo. Les joueurs lance a tours de rôle des dés pour avancer sur le plateau.
 Chaque case possède un effet de malus, bonus ou évenement. Il y a également des boss sur les cases 15 et 30.
 
