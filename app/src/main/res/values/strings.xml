@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="button">+1</string>
+    <string name="text">0</string>
+    <string name="button2">-1</string>
+    <string name="langue"></string>
+    <string name="maintext">Texte en français</string>
+</resources>
