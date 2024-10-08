@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-pngs-10:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\drawable_asset.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\drawable\\asset.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-pngs-10:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-pngs-10:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-pngs-10:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-pngs-10:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-pngs-10:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\drawable_attack.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\drawable\\attack.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\drawable_jump.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\drawable\\jump.png"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-15:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.helloworld.app-pngs-10:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-pngs-10:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\drawable_idle.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\drawable\\idle.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-main-17:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-merged_res-15:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\irabaouy\\.gradle\\daemon\\7.3.3\\com.example.helloworld.app-pngs-10:\\drawable-mdpi\\ic_launcher_background.png"
+    }
+]
